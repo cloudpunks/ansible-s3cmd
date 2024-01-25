@@ -1,6 +1,6 @@
 ---
 repository:
-  name: s3cmd
+  name: ansible-s3cmd
   description: Ansible role to install and configure S3 command-line client
   topics: ansible, role, ansible-role, hacktoberfest
 
