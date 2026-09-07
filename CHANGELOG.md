@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.5.0](https://github.com/rolehippie/s3cmd/compare/v2.4.1...v2.5.0) (2026-09-07)
+
+### Features
+
+* add separate requirements for molecule run ([0e010cc](https://github.com/rolehippie/s3cmd/commit/0e010cc84380cb6dd1f6e84bb4d3f7f162ce0118))
+
 ## [2.4.1](https://github.com/rolehippie/s3cmd/compare/v2.4.0...v2.4.1) (2026-08-31)
 
 ### Dependencies
